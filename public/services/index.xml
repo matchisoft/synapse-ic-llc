@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Synapse IC LLC</title>
+    <link>/services/</link>
+    <description>Recent content in Services on Synapse IC LLC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flexible &amp; Hybrid-printed electronic (FHE) systems</title>
+      <link>/services/fhe/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/services/fhe/</guid>
+      <description>We offer the development of various FHE systems for biomedical applications:
+ Printed humidity, temperature, pH, and pressure sensors; FHE for bed-exit applications.  You may want to put more details below:
+Objectives Financial accounting and financial reporting are often used as synonyms.
+ According to International Financial Reporting Standards: the objective of financial reporting is: To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.</description>
+    </item>
+    
+    <item>
+      <title>Electronic and microelectronic integrated circuit design</title>
+      <link>/services/electronic/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/services/electronic/</guid>
+      <description>We have a broad range of experience in areas including:
+ analog integrated circuit design (bandgaps, voltage regulators, opamps); digital integrated circuit design (standard cells librairies) mixed signal integrated circuit design (ADCs, DACs, timers) development of systems for sensing (temperature, light and capacitive sensors)  The engineers’ team at Synapse IC work in close partnership with experienced IC designers in academia and industry to be able to serve you with a wide range of services.</description>
+    </item>
+    
+    <item>
+      <title>Free Hspice netlist of Analog and/or Mixed Signal ICs</title>
+      <link>/services/hspice/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>/services/hspice/</guid>
+      <description>We also offer FREE access to analog and/or mixed-signals integrated circuits Hspice netlists to help you in simulating and/or in evaluating your microsystems.
+Most subcircuits made available by Synapse IC have been simulated and/or tested by our experienced IC design engineers. Synapse IC team wants you to achieve your goal. So any individual and/or company with special request can contact us and we will be glad to help you. We currently, offer the following netlists of cells design in TSMC 0.</description>
+    </item>
+    
+    <item>
+      <title>Intellectual Property (IP)</title>
+      <link>/services/ip/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>/services/ip/</guid>
+      <description>Our continuously growing IP portfolio enables us to quickly respond to customer demands giving you a short time to market.
+We are pleased to offer a variety of best-in-class analog designs for immediate inclusion in your mixed-signal design. A partial list of research papers publication related to our IP can is below.
+ Flexible sensors for incontinence management An Experimental 0.6-V 57.5-fJ/Conversion-Step 250-kS/s 8-bit Rail-to-Rail Successive Approximation ADC in 0.18um CMOS.</description>
+    </item>
+    
+  </channel>
+</rss>
