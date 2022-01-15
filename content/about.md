@@ -4,8 +4,7 @@ date: 2018-02-22T17:01:34+07:00
 ---
 
 ## The Name
-In the nervous system, a synapse is a structure that permits a neuron to pass an electrical or chemical signal to another cell. For more details: [http://en.wikipedia.org/wiki/Synapse](http://en.wikipedia.org/wiki/Synapse)
-IC is the well-known abbreviation for Integrated Circuit.
+In the nervous system, a synapse is a structure that permits a neuron to pass an electrical or chemical signal to another cell. For more details: [http://en.wikipedia.org/wiki/Synapse](http://en.wikipedia.org/wiki/Synapse). IC is the well-known abbreviation for Integrated Circuit.
 
 
 ## Profile
